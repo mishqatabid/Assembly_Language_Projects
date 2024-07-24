@@ -20,6 +20,7 @@ Implements the Caesar cipher encryption technique, which shifts each character i
 **Usage:** 
 
 Run the program and provide the plaintext and shift value as inputs.
+
 ---
 
 ## Keylogger
@@ -38,6 +39,7 @@ A simple keylogger that records keystrokes to a file.
 **Usage:** 
 
 Run the program and it will start logging keystrokes automatically. The log file can be specified or set to a default location.
+
 ---
 
 ### Random Password Generator
