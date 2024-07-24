@@ -1,8 +1,8 @@
-# Assembly_Language_Projects
+# Assembly Language Projects
 Welcome to the Assembly Language Projects repository! This collection contains various projects implemented in assembly language, showcasing the versatility and power of low-level programming. Below is a detailed overview of each project included in this repository.
 
-Projects Overview
-Caesar Cipher
+## Projects Overview
+### Caesar Cipher
 
 Description: Implements the Caesar cipher encryption technique, which shifts each character in the plaintext by a fixed number of positions in the alphabet.
 Features:
@@ -12,7 +12,7 @@ Detailed Explanation:
 Encryption: Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
 Decryption: The reverse process of encryption, shifting characters back by the same number of positions to retrieve the original text.
 Usage: Run the program and provide the plaintext and shift value as inputs.
-Keylogger
+### Keylogger
 
 Description: A simple keylogger that records keystrokes to a file.
 Features:
@@ -21,7 +21,7 @@ Saves logs to a specified file.
 Detailed Explanation:
 Keystroke Logging: Captures each keystroke made by the user and writes it to a log file. This can be used for monitoring user input or debugging.
 Usage: Run the program and it will start logging keystrokes automatically. The log file can be specified or set to a default location.
-Random Password Generator
+### Random Password Generator
 
 Description: Generates random passwords of a user-defined length.
 Features:
@@ -30,7 +30,7 @@ Generates secure random passwords.
 Detailed Explanation:
 Password Generation: Uses a random number generator to create a sequence of characters, including uppercase letters, lowercase letters, digits, and special characters, ensuring a strong and unpredictable password.
 Usage: Run the program and specify the desired password length. The generated password will be displayed or saved to a file.
-Character Classifier
+### Character Classifier
 
 Description: Classifies characters into categories such as alphabets, digits, and special characters.
 Features:
@@ -38,7 +38,7 @@ Identifies and counts different types of characters.
 Detailed Explanation:
 Classification: Reads input text and categorizes each character. Alphabets are counted separately for uppercase and lowercase, digits are counted, and any other characters are classified as special characters.
 Usage: Run the program and input the text to be classified. The output will show the counts of each type of character.
-Palindrome Checker
+### Palindrome Checker
 
 Description: Checks if a given string is a palindrome.
 Features:
@@ -46,7 +46,7 @@ Determines if the input string reads the same forwards and backwards.
 Detailed Explanation:
 Palindrome Checking: Compares characters from the beginning and end of the string, moving towards the center. If all characters match, the string is a palindrome.
 Usage: Run the program and input the string to be checked. The output will indicate whether the string is a palindrome.
-Word, Letter, and Sentence Counter
+### Letter, Word, and Sentence Counter
 
 Description: Counts the number of words, letters, and sentences in a given text file.
 Features:
