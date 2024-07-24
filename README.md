@@ -44,18 +44,18 @@ Run the program and it will start logging keystrokes automatically. The log file
 
 ## Random Password Generator
 
-**Description:** 
+### **Description:** 
 
 Generates random passwords of a user-defined length.
 
-**Features:**
+### **Features:**
   - Allows customization of password length.
   - Generates secure random passwords.
 
-**Detailed Explanation:**
+### **Detailed Explanation:**
   - **Password Generation:** Uses a random number generator to create a sequence of characters, including uppercase letters, lowercase letters, digits, and special characters, ensuring a strong and unpredictable password.
 
-**Usage:**
+### **Usage:**
 
 Run the program and specify the desired password length. The generated password will be displayed or saved to a file.
 
