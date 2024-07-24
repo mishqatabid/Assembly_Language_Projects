@@ -63,12 +63,20 @@ Run the program and specify the desired password length. The generated password 
 
 ## Character Classifier
 
-Description: Classifies characters into categories such as alphabets, digits, and special characters.
-Features:
-Identifies and counts different types of characters.
-Detailed Explanation:
-Classification: Reads input text and categorizes each character. Alphabets are counted separately for uppercase and lowercase, digits are counted, and any other characters are classified as special characters.
-Usage: Run the program and input the text to be classified. The output will show the counts of each type of character.
+**Description:** 
+
+Classifies characters into categories such as alphabets, digits, and special characters.
+
+**Features:**
+
+  - Identifies and counts different types of characters.
+
+**Detailed Explanation:**
+  - **Classification:** Reads input text and categorizes each character. Alphabets are counted separately for uppercase and lowercase, digits are counted, and any other characters are classified as special characters.
+
+**Usage:** 
+
+Run the program and input the text to be classified. The output will show the counts of each type of character.
 
 ---
 
