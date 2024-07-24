@@ -65,18 +65,27 @@ Usage: Run the program and input the text to be classified. The output will show
 
 ---
 
-### Palindrome Checker
+## Palindrome Checker
 
-Description: Checks if a given string is a palindrome.
-Features:
-Determines if the input string reads the same forwards and backwards.
-Detailed Explanation:
-Palindrome Checking: Compares characters from the beginning and end of the string, moving towards the center. If all characters match, the string is a palindrome.
-Usage: Run the program and input the string to be checked. The output will indicate whether the string is a palindrome.
+**Description:** 
+
+Checks if a given string is a palindrome.
+
+**Features:**
+
+  - Determines if the input string reads the same forwards and backwards.
+
+**Detailed Explanation:**
+
+  - **Palindrome Checking:** Compares characters from the beginning and end of the string, moving towards the center. If all characters match, the string is a palindrome.
+
+**Usage:** 
+
+Run the program and input the string to be checked. The output will indicate whether the string is a palindrome.
 
 ---
 
-### Letter, Word, and Sentence Counter
+## Letter, Word, and Sentence Counter
 
 **Description:** 
 
