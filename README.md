@@ -2,16 +2,25 @@
 Welcome to the Assembly Language Projects repository! This collection contains various projects implemented in assembly language, showcasing the versatility and power of low-level programming. Below is a detailed overview of each project included in this repository.
 
 ## Projects Overview
+
 ### Caesar Cipher
 
-Description: Implements the Caesar cipher encryption technique, which shifts each character in the plaintext by a fixed number of positions in the alphabet.
-Features:
-Encrypts and decrypts text.
-User-defined shift value.
-Detailed Explanation:
-Encryption: Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
-Decryption: The reverse process of encryption, shifting characters back by the same number of positions to retrieve the original text.
-Usage: Run the program and provide the plaintext and shift value as inputs.
+**Description:** 
+
+Implements the Caesar cipher encryption technique, which shifts each character in the plaintext by a fixed number of positions in the alphabet.
+
+**Features:**
+  - Encrypts and decrypts text.
+  - User-defined shift value.
+
+**Detailed Explanation:**
+- _Encryption:_ Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
+- _Decryption:_ The reverse process of encryption, shifting characters back by the same number of positions to retrieve the original text.
+
+**Usage:** 
+
+Run the program and provide the plaintext and shift value as inputs.
+
 ### Keylogger
 
 Description: A simple keylogger that records keystrokes to a file.
