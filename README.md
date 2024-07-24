@@ -51,6 +51,9 @@ Generates secure random passwords.
 Detailed Explanation:
 Password Generation: Uses a random number generator to create a sequence of characters, including uppercase letters, lowercase letters, digits, and special characters, ensuring a strong and unpredictable password.
 Usage: Run the program and specify the desired password length. The generated password will be displayed or saved to a file.
+
+---
+
 ### Character Classifier
 
 Description: Classifies characters into categories such as alphabets, digits, and special characters.
@@ -59,6 +62,9 @@ Identifies and counts different types of characters.
 Detailed Explanation:
 Classification: Reads input text and categorizes each character. Alphabets are counted separately for uppercase and lowercase, digits are counted, and any other characters are classified as special characters.
 Usage: Run the program and input the text to be classified. The output will show the counts of each type of character.
+
+---
+
 ### Palindrome Checker
 
 Description: Checks if a given string is a palindrome.
@@ -67,6 +73,9 @@ Determines if the input string reads the same forwards and backwards.
 Detailed Explanation:
 Palindrome Checking: Compares characters from the beginning and end of the string, moving towards the center. If all characters match, the string is a palindrome.
 Usage: Run the program and input the string to be checked. The output will indicate whether the string is a palindrome.
+
+---
+
 ### Letter, Word, and Sentence Counter
 
 Description: Counts the number of words, letters, and sentences in a given text file.
@@ -76,3 +85,5 @@ Detailed Explanation:
 Counting: Reads the content of a text file and counts the number of words, letters, and sentences. Words are typically defined by spaces or punctuation, letters by alphabetical characters, and sentences by periods, exclamation marks, or question marks.
 Usage: Run the program and provide the path to the text file. The output will show the counts of words, letters, and sentences.
 Repository Structure
+
+---
