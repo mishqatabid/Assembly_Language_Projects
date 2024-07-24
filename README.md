@@ -1,9 +1,9 @@
 # Assembly Language Projects
 Welcome to the Assembly Language Projects repository! This collection contains various projects implemented in assembly language, showcasing the versatility and power of low-level programming. Below is a detailed overview of each project included in this repository.
 
-## Projects Overview
+# Projects Overview
 
-### Caesar Cipher
+## Caesar Cipher
 
 **Description:** 
 
@@ -20,8 +20,9 @@ Implements the Caesar cipher encryption technique, which shifts each character i
 **Usage:** 
 
 Run the program and provide the plaintext and shift value as inputs.
+---
 
-### Keylogger
+## Keylogger
 
 **Description:** 
 
@@ -37,6 +38,7 @@ A simple keylogger that records keystrokes to a file.
 **Usage:** 
 
 Run the program and it will start logging keystrokes automatically. The log file can be specified or set to a default location.
+---
 
 ### Random Password Generator
 
