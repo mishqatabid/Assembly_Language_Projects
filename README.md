@@ -14,7 +14,7 @@ Implements the Caesar cipher encryption technique, which shifts each character i
   - User-defined shift value.
 
 ### **Detailed Explanation:**
-  - <u>Encryption:</u> Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
+  - **Encryption:** Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
   - **Decryption:** The reverse process of encryption, shifting characters back by the same number of positions to retrieve the original text.
 
 ### **Usage:** 
@@ -25,18 +25,18 @@ Run the program and provide the plaintext and shift value as inputs.
 
 ## Keylogger
 
-**Description:** 
+### **Description:** 
 
 A simple keylogger that records keystrokes to a file.
 
-**Features:**
+### **Features:**
   - Logs all keystrokes.
   - Saves logs to a specified file.
 
-**Detailed Explanation:**
+### **Detailed Explanation:**
   - **Keystroke Logging:** Captures each keystroke made by the user and writes it to a log file. This can be used for monitoring user input or debugging.
 
-**Usage:** 
+### **Usage:** 
 
 Run the program and it will start logging keystrokes automatically. The log file can be specified or set to a default location.
 
