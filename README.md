@@ -5,7 +5,7 @@ Welcome to the Assembly Language Projects repository! This collection contains v
 
 ## Caesar Cipher
 
-**Description:** 
+### **Description:** 
 
 Implements the Caesar cipher encryption technique, which shifts each character in the plaintext by a fixed number of positions in the alphabet.
 
@@ -42,19 +42,26 @@ Run the program and it will start logging keystrokes automatically. The log file
 
 ---
 
-### Random Password Generator
+## Random Password Generator
 
-Description: Generates random passwords of a user-defined length.
-Features:
-Allows customization of password length.
-Generates secure random passwords.
-Detailed Explanation:
-Password Generation: Uses a random number generator to create a sequence of characters, including uppercase letters, lowercase letters, digits, and special characters, ensuring a strong and unpredictable password.
-Usage: Run the program and specify the desired password length. The generated password will be displayed or saved to a file.
+**Description:** 
+
+Generates random passwords of a user-defined length.
+
+**Features:**
+  - Allows customization of password length.
+  - Generates secure random passwords.
+
+**Detailed Explanation:**
+  - **Password Generation:** Uses a random number generator to create a sequence of characters, including uppercase letters, lowercase letters, digits, and special characters, ensuring a strong and unpredictable password.
+
+**Usage:**
+
+Run the program and specify the desired password length. The generated password will be displayed or saved to a file.
 
 ---
 
-### Character Classifier
+## Character Classifier
 
 Description: Classifies characters into categories such as alphabets, digits, and special characters.
 Features:
