@@ -14,7 +14,7 @@ Implements the Caesar cipher encryption technique, which shifts each character i
   - User-defined shift value.
 
 ### **Detailed Explanation:**
-  - <u>**Encryption:**</u> Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
+  - <u>Encryption:</u> Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
   - **Decryption:** The reverse process of encryption, shifting characters back by the same number of positions to retrieve the original text.
 
 ### **Usage:** 
