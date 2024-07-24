@@ -102,17 +102,17 @@ Run the program and input the string to be checked. The output will indicate whe
 
 ## Letter, Word, and Sentence Counter
 
-**Description:** 
+### **Description:** 
 
 Counts the number of words, letters, and sentences in a given text file.
 
-**Features:**
+### **Features:**
   - Reads text from a file and provides a detailed count.
 
-**Detailed Explanation:**
+### **Detailed Explanation:**
   - **Counting:** Reads the content of a text file and counts the number of words, letters, and sentences. Words are typically defined by spaces or punctuation, letters by alphabetical characters, and sentences by periods, exclamation marks, or question marks.
 
-**Usage:** 
+### **Usage:** 
 
 Run the program and provide the path to the text file. The output will show the counts of words, letters, and sentences.
 
