@@ -9,15 +9,15 @@ Welcome to the Assembly Language Projects repository! This collection contains v
 
 Implements the Caesar cipher encryption technique, which shifts each character in the plaintext by a fixed number of positions in the alphabet.
 
-**Features:**
+### **Features:**
   - Encrypts and decrypts text.
   - User-defined shift value.
 
-**Detailed Explanation:**
+### **Detailed Explanation:**
   - **Encryption:** Each letter in the plaintext is shifted by a fixed number of positions defined by the user. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on. Wrapping is handled so that 'Z' wraps around to 'C'.
   - **Decryption:** The reverse process of encryption, shifting characters back by the same number of positions to retrieve the original text.
 
-**Usage:** 
+### **Usage:** 
 
 Run the program and provide the plaintext and shift value as inputs.
 
