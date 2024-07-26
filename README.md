@@ -117,3 +117,25 @@ Counts the number of words, letters, and sentences in a given text file.
 Run the program and provide the path to the text file. The output will show the counts of words, letters, and sentences.
 
 ---
+
+## Encryption Scheme
+
+### **Description:**
+
+Performs simple encryption and decryption on an input string using a custom key and substitution method.
+
+### **Features:**
+  - **Input Handling:** Prompts for user input.
+  - **Encryption:** Transforms input using a key.
+  - **Decryption:** Reverts the encrypted text to plaintext.
+  - **Display:** Shows plaintext, encrypted, and decrypted text
+
+### **Detailed Explanation:**
+
+  - **Setup and Loop Initialization**: Saves the current state of registers (`pushad`), sets the loop counter (`ecx`) to the size of the buffer (`bufSize`), and initializes indices for the buffer (`esi`) and key (`edi`).
+  
+  - **Encryption Loop**: For each byte in the buffer, it performs a series of operations involving the `KEY` and `alphabets` arrays to transform the byte, incrementing both `esi` and `edi` indices. Resets `edi` to 0 after processing 6 characters.
+  
+  - **Cleanup and Return**: Restores the saved state of registers (`popad`) and returns from the procedure.
+
+---
