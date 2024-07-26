@@ -138,4 +138,8 @@ Performs simple encryption and decryption on an input string using a custom key 
   
   - **Cleanup and Return**: Restores the saved state of registers (`popad`) and returns from the procedure.
 
+### Usage:
+
+Run the program and provide the plaintext to get the encrypted text.
+
 ---
